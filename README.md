@@ -1,2 +1,3 @@
-# kho-script
-Tổng hợp kho lưu trữ các script viết bằng shell script (bash) và python, cũng như regex cheatsheet. Nói chung là rất lộn xộn :>
+# Kho Scripts
+
+Lưu trữ toàn bộ các Scripts mà cá nhân mình đã sử dụng để tự động hóa "công việc" (oke nghe khá là đao to búa lớn đấy) của mình.
